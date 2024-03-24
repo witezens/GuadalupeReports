@@ -1,0 +1,11 @@
+{
+    "name": "GuadalupeReports",
+    "alias": "guadalupereports",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\GuadalupeReports\\App\\Providers\\GuadalupeReportsServiceProvider"
+    ],
+    "files": []
+}
