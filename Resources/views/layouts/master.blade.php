@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="{{ asset('fontawesome/css/all.css') }}">
 
     {{-- Vite CSS --}}
-    @vite(['Resources/css/app.css', 'Resources/js/guadalupe-reports.js'], 'build/guadalupe-reports')
+    @vite(['resources/css/app.css', 'resources/js/guadalupe-reports.js'], 'build/guadalupe-reports')
 </head>
 
 <body class="font-sans antialiased h-full overflow-hidden">
